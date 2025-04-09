@@ -7,7 +7,7 @@ This repository demonstrates how to use MLflow for experiment tracking with a si
 
 1. Clone the repository:
    ```bash
-git clone https://github.com/farahmahmoudsaleh/Mlflow-test.git
+   git clone https://github.com/yourusername/mlflow-example.git
 
 2.Set up and start the MLflow tracking server:
 mlflow server --host 127.0.0.1 --port 5000
